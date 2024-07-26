@@ -1,2 +1,2 @@
 # PrismOS
-A linux distro made by matrix.py
+A new linux distro developed and maintained by MatrixStudios
